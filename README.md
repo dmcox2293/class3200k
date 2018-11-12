@@ -1,8 +1,8 @@
 # class3200k
-repository for GISC 3200k
+Repository for GISC 3200k
 
-##Subsection
+## Subsection
 Things.
 
-###Subsubsection
+### Subsubsection
 More detailed things.
